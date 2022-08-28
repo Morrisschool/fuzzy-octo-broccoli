@@ -136,15 +136,10 @@ code {
     height: 100vh;
 }
 
-#iframewk1, #iframewk2, #iframewk3, #iframewk4, #iframewk5, #iframewk6, #iframewk7 {
+#iframewk1, #iframewk2, #iframewk3, #iframewk4, #iframewk5, #iframewk6 {
     margin-top: 10vh;
     position: relative;
     width: 100%;
     height: 90vh;
     display: none;
-}
-
-#iframewk6 {
-    resize: both;
-    overflow: auto;
 }
